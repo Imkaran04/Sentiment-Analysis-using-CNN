@@ -1,0 +1,2 @@
+# 1. TF-IDF Vectorization
+#TF-IDF stands for Term Frequency-Inverse Document Frequency. It's a way to represent text by considering both the frequency of terms in a specific document and across all documents. Words that are frequent in a specific document but not in all documents will have higher scores, which makes them more important.
